@@ -1,9 +1,9 @@
-# Vecka 16 - Tema: TypeScript och anynkrona funktioner
+# Vecka 17 - Tema: TypeScript och anynkrona funktioner
 
 ## Meddelande
 Hallå där studenter! Nu har vi satt grunderna i TypeScript, och det har blivit dags att ta det ett steg längre i vårt sökande efter att skapa en interaktiv och dynamisk webbapplikation. Denna vecka kommer vi att titta närmre på hur vi gör för att hämta extern data med hjälp utan asynkrona funktioner och API-anrop, data som vi sedan kan använda för att skapa innehåll på vår webbapplikation.
 
-Notera att i de kodexempel som visas nedan så används vanlig vanilla JavaScript. Mer i detalj hur detta ser ut i TypeScript kommer vi att gå igenom på tisdag.
+Notera att i de kodexempel som visas nedan så används vanlig vanilla JavaScript. Mer i detalj hur detta ser ut i TypeScript kommer vi att gå igenom på tisdag. Fortsätt tills vidare att göra DOM-övningarna, så går vi igenom nya övningar, där ni får använda er av APIer, på tisdag. 
 
 ## Videor
 
@@ -20,7 +20,7 @@ Inga liveinspelningar publicerade ännu...
 
 ### YouTube
 - [TypeScript Tutorial](https://www.youtube.com/watch?v=BCg4U1FzODs)
-
+- [Fetch med TypeScript](https://www.youtube.com/watch?v=PyOBr2RXHyU)
 
 ## Länkar 
 - [TypeScript - dokumentation](https://www.typescriptlang.org/docs/)
