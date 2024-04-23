@@ -5,6 +5,9 @@ Hallå där studenter! Nu har vi satt grunderna i TypeScript, och det har blivit
 
 Notera att i de kodexempel som visas nedan så används vanlig vanilla JavaScript. Mer i detalj hur detta ser ut i TypeScript kommer vi att gå igenom på tisdag. Fortsätt tills vidare att göra DOM-övningarna, så går vi igenom nya övningar, där ni får använda er av APIer, på tisdag. 
 
+## Presentationer
+- [APIer, asynkrona funktioner och JSON](https://docs.google.com/presentation/d/1IHs2POTOCAavMDgBg6sbmUg87uxi2FLR/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+
 ## Videor
 
 ### Föreläsningar 
