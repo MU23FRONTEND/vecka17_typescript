@@ -21,6 +21,7 @@ Notera att i de kodexempel som visas nedan så används vanlig vanilla JavaScrip
 ### Liveinspelningar
 - [Tisdag förmiddag](https://vimeo.com/938559279/64e81b9002?share=copy)
 - [Tisdag eftermiddag](https://vimeo.com/938559159/6b486cd30c?share=copy)
+- [Torsdag förmiddag](https://vimeo.com/939064768/cb47bdd4c1?share=copy)
 
 ### YouTube
 - [TypeScript Tutorial](https://www.youtube.com/watch?v=BCg4U1FzODs)
