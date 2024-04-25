@@ -35,3 +35,5 @@ I [detta gitrepo](https://github.com/MU23FRONTEND/typescript_template) hittar ni
  
 ## Övningar
 Hittar ni i mappen [Övningar](./Övningar/).
+
+Fortsätt gärna att koda vidare på min Pokemonapplikation från torsdagen som ligger i mappen Livekod. Skapa funktionalitet för att söka efter, samt att generera fram, pokemons. Förslag på tillägg: skapa även en favoritfunktion som lägger till klickade pokemons i en favoritlista.
