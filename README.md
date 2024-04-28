@@ -1,4 +1,4 @@
-# Vecka 17 - Tema: TypeScript och anynkrona funktioner
+# Vecka 17 - Tema: TypeScript och asynkrona funktioner
 
 ## Meddelande
 Hallå där studenter! Nu har vi satt grunderna i TypeScript, och det har blivit dags att ta det ett steg längre i vårt sökande efter att skapa en interaktiv och dynamisk webbapplikation. Denna vecka kommer vi att titta närmre på hur vi gör för att hämta extern data med hjälp utan asynkrona funktioner och API-anrop, data som vi sedan kan använda för att skapa innehåll på vår webbapplikation.
